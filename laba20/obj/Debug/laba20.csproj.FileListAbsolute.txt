@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\САЙТ\laba20\bin\Debug\laba20.exe.config
+C:\Users\Admin\Desktop\САЙТ\laba20\bin\Debug\laba20.exe
+C:\Users\Admin\Desktop\САЙТ\laba20\bin\Debug\laba20.pdb
+C:\Users\Admin\Desktop\САЙТ\laba20\obj\Debug\laba20.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\САЙТ\laba20\obj\Debug\laba20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\САЙТ\laba20\obj\Debug\laba20.exe
+C:\Users\Admin\Desktop\САЙТ\laba20\obj\Debug\laba20.pdb

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GroupedWorkers GroupedBy="FIO">
+  <Group FIO="Аотский Кирилл Сергеевич">
+    <Worker>
+      <FIO>Аотский Кирилл Сергеевич</FIO>
+      <Oklad>1000</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>10000000</Premiya>
+      <KolichestvoDney>3</KolichestvoDney>
+      <Nachisleno>10000000</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Бавчук Никита Андреевич">
+    <Worker>
+      <FIO>Бавчук Никита Андреевич</FIO>
+      <Oklad>3500</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>200</Premiya>
+      <KolichestvoDney>12</KolichestvoDney>
+      <Nachisleno>1200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Берчук Владимер Сергеевич">
+    <Worker>
+      <FIO>Берчук Владимер Сергеевич</FIO>
+      <Oklad>800</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>300</Premiya>
+      <KolichestvoDney>220</KolichestvoDney>
+      <Nachisleno>1200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Былван Балван Балванов">
+    <Worker>
+      <FIO>Былван Балван Балванов</FIO>
+      <Oklad>2</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>20</Premiya>
+      <KolichestvoDney>220</KolichestvoDney>
+      <Nachisleno>1200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Бятискав Самир Акинвеевич">
+    <Worker>
+      <FIO>Бятискав Самир Акинвеевич</FIO>
+      <Oklad>11000</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>1200</Premiya>
+      <KolichestvoDney>420</KolichestvoDney>
+      <Nachisleno>1200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Валодко Григорий Семенович">
+    <Worker>
+      <FIO>Валодко Григорий Семенович</FIO>
+      <Oklad>121000</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>2200</Premiya>
+      <KolichestvoDney>420</KolichestvoDney>
+      <Nachisleno>1200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Самали Василий Топ">
+    <Worker>
+      <FIO>Самали Василий Топ</FIO>
+      <Oklad>1</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>200</Premiya>
+      <KolichestvoDney>260</KolichestvoDney>
+      <Nachisleno>13200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Семенов Семен Семенович">
+    <Worker>
+      <FIO>Семенов Семен Семенович</FIO>
+      <Oklad>0</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>200</Premiya>
+      <KolichestvoDney>820</KolichestvoDney>
+      <Nachisleno>1200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+  <Group FIO="Титанов Иван Иванович">
+    <Worker>
+      <FIO>Титанов Иван Иванович</FIO>
+      <Oklad>102300</Oklad>
+      <DataPostupleniya>2020-01-01</DataPostupleniya>
+      <Premiya>200</Premiya>
+      <KolichestvoDney>290</KolichestvoDney>
+      <Nachisleno>1200</Nachisleno>
+      <Uderzhano>100</Uderzhano>
+    </Worker>
+  </Group>
+</GroupedWorkers>
